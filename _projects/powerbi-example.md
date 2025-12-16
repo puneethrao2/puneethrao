@@ -38,14 +38,7 @@ Below is the interactive PowerBI report. You can interact with the filters and v
      3. Copy the iframe code and paste it below
 -->
 
-<iframe 
-  title="Sales Dashboard Example" 
-  width="100%" 
-  height="600" 
-  src="YOUR_POWERBI_EMBED_URL_HERE" 
-  frameborder="0" 
-  allowFullScreen="true">
-</iframe>
+<iframe title="Getting Started in Power BI" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzc4NjQ3MDMtY2Y2Yy00YzhhLTk5N2UtMzYyYTczZTlhMjIxIiwidCI6IjVkMGFhNmVhLTY2MjAtNDg2My05ZTIxLTllY2IxNDAyMjJiYyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 > **Note:** Replace the `src` URL above with your actual PowerBI embed URL from PowerBI Service.
 
